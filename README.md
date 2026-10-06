@@ -3,6 +3,7 @@
 **Nama** : Revaldi Enzha Agviandry P.
 **NIM** : H1D024094
 **Shift** : H
+**Link Video** : https://youtu.be/3R8Kvhi_JbU
 
 ## Deskripsi
 Aplikasi mobile untuk mencari dan melihat katalog buku dari OpenLibrary API.
